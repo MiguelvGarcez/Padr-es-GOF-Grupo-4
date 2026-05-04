@@ -1,3 +1,3 @@
 # Padroes-GOF-Grupo-4
 
-Codigos utilizando o Padrao GOF para resolução de um problema criado para o trabalho de Arquitetura e Construçao de Software
+Códigos utilizando o Padrão GOF para resolução de um problema criado para o trabalho de Arquitetura e Construção de Software
